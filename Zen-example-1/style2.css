@@ -1,0 +1,64 @@
+html {
+	margin: 0;
+	padding: 0;
+  height: 100%;
+  width: 100%;
+	}
+body {
+	color: #3d3e3f;
+	background-image: url("https://static9.depositphotos.com/1022214/1201/i/950/depositphotos_12019955-stock-photo-zen-background.jpg");
+  background-size: cover;
+
+
+	}
+
+.page-wrapper {
+  opacity: 0.8;
+      margin: 0 auto;
+      width: 790px;
+      position: relative;
+      background: #fff;
+      padding: 0 10px 0 10px;
+      text-align: left;
+      background-image: url("https://www.onlygfx.com/wp-content/uploads/2016/11/tree-silhouette-2-3.png");
+      background-size: 180px;
+      background-repeat: no-repeat;
+      background-position: 30px 1000px;
+}
+.intro {
+  text-align: justify;
+  padding-left: 220px;
+  padding-right: 20px;
+  background-image: url("https://pngimage.net/wp-content/uploads/2018/05/cerchio-zen-png-3.png");
+  background-repeat: no-repeat;
+  background-size: 100px;
+  background-position: 5% 2%;
+}
+header h1 {
+  font-size: 50px;
+}
+header h1, h2, h3 {
+  text-align: center;
+}
+.main-supporting {
+  text-align: justify;
+  padding-left: 220px;
+  padding-right: 20px;
+}
+.sidebar {
+  padding-top: 150px;
+	margin-right: 650px;
+	position: absolute;
+	top: 0;
+	right: 0;
+
+
+	}
+a {
+  color: #407d84;
+
+}
+ul {
+  list-style-type: none;
+  text-shadow: 0.5;
+}
